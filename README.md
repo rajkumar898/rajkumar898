@@ -1,165 +1,147 @@
-👋 Hi there! I'm Raj Kumar
+# 👋 Hi, I'm Raj Kumar
 
-Machine Learning Researcher | Generative AI Specialist | LLMs & Multimodal AI
+I'm a **Machine Learning Researcher** and **PhD (MS-leading) scholar in Electronics Engineering** at **Jeju National University, South Korea**.  
 
-I'm a research-driven Machine Learning Scholar at Jeju National University, South Korea, specializing in Generative AI, Large Language Models (LLMs), multimodal embedding architectures, and synthetic data generation for real-world applications in renewable energy, biotech, and autonomous systems.
+My work focuses on:
 
-I design advanced AI systems that integrate symbolic–numeric reasoning, diffusion-based augmentation, and feature-level balancing frameworks to solve complex forecasting, detection, and optimization problems.
+- **Generative AI & Large Language Models (LLMs)**  
+- **Multimodal forecasting for renewable energy (solar & wind)**  
+- **Image-based defect detection with advanced data augmentation**  
+- **Embedding-based symbolic–numeric reasoning for real-world systems**
 
-🎓 MS Leading to PhD in Electronics Engineering
-🔬 Applied AI/ML Researcher | 📊 Renewable Energy Forecasting | 🤖 Generative & Multimodal AI
+I love turning messy, real-world data (logs, images, time series) into **robust, scalable ML systems** that actually survive deployment.
 
-🔬 Research Interests & Expertise
+---
 
-Generative AI (Stable Diffusion, GANs, DiToS, DiSMHA)
+## 🎓 Current Role & Research
 
-Large Language Models (GPT, BERT, MiniLM, Sentence-BERT)
+### 🔬 Research Scholar, Machine Learning Lab — Jeju National University  
+**Jun 2023 – Present · Jeju, South Korea**   
 
-Multimodal Fusion & Hybrid Symbolic-Numeric Models
+- Developing **LLM-augmented forecasting frameworks** for solar energy, integrating numerical data with maintenance logs (Sentence-BERT / MiniLM embeddings).  
+- Working on **multimodal architectures** (time series + text + images) for renewable energy applications (PV fault detection, anomaly detection, forecasting).  
+- Using **Generative AI (Stable Diffusion, DiToS, SMOTE variants)** to handle extreme class imbalance in solar panel fault datasets.   
+- Designing **agentic few-shot pipelines** for defect classification and operational anomaly detection.  
 
-Solar/Wind Energy Forecasting & Defect Detection
+---
 
-Synthetic Data Generation for Extreme Imbalance
+## 🧠 Research Interests
 
-Image Segmentation & Classification (CV)
+- **Generative AI & Diffusion models** for data augmentation (DiToS, SMOTE, Tomek Link, GANs)  
+- **LLMs & embeddings** (GPT, BERT, Sentence-BERT, MiniLM, RAG systems) for:
+  - Context-aware renewable energy forecasting  
+  - Maintenance-log understanding & anomaly detection  
+- **Multimodal & multi-task learning** (time series + text + images)  
+- **Time-series forecasting** (TFT, ViT-style hybrids, transformer-based forecasters)  
+- **Imbalanced learning & few-shot learning** for industrial defect detection  
+- **Agent-based AI systems** for decision support in energy and industrial settings   
 
-Few-Shot & Multi-Task Learning
+---
 
-Agentic AI Systems & RAG Pipelines
+## 📄 Selected Publications & Works
 
-Transformers (ViT, CNN-Transformers, TFT)
+> (Full list in CV / Google Scholar; here are a few highlights.)   
 
-🧠 Technical Skills
-Machine Learning & AI
+1. **Large Language Model Based Context-Rich Renewable Energy Forecasting: A Novel Multimodal Symbolic–Numeric Approach**  
+   _Under review, Renewable Energy (Elsevier)_  
+   ➤ LLM-based embeddings of maintenance logs + numerical PV data for improved solar forecasting.
 
-LLMs, Embeddings, Prompt Engineering, RAG Systems, Diffusion Models, GANs, SMOTE variants, Reinforcement Learning, Forecasting Models, CNNs, ViT, Feature Extraction, Data Augmentation, Multimodal Fusion, Optimization
+2. **Integrating Large Language Model and Multimodal Data for Enhanced Solar Energy Forecasting and Operational Anomaly Detection using Multi-Task Learning**  
+   _Under review, Applied Energy (Elsevier)_
 
-Programming & Frameworks
+3. **Hybrid Framework Combining Diffusion Based Image Augmentation and Feature Level SMOTE for Addressing Extreme Class Imbalance**  
+   _Published, IEEE Access_  
 
-Python, C++
+4. **Mitigating Data Imbalance Using Image-Based Stable Diffusion and Feature-Level SMOTE for Solar Panel Classifications with CNNs**  
+   _Conditional acceptance, Energy Reports (Elsevier)_  
 
-TensorFlow, PyTorch, Keras, Scikit-learn
+5. **Fungal Blast Disease Detection in Rice Seed Using Machine Learning**  
+   _International Journal of Advanced Computer Science & Applications (IJACSA)_  
 
-OpenCV, Hugging Face Transformers
+---
 
-MATLAB, LabVIEW
+## 🛠 Technical Skills
 
-Tools & Platforms
+### Machine Learning & AI
 
-Jupyter, Colab, Anaconda
+- **Generative AI:** Stable Diffusion, GANs, DiToS, SMOTE, Tomek Link, data augmentation for extreme imbalance  
+- **LLMs & NLP:** GPT, BERT, Sentence-BERT, MiniLM, RAG, prompt engineering, embeddings  
+- **Time-Series & Forecasting:** TFT, transformer-based models, classical ML for forecasting, EV & PV forecasting pipelines  
+- **Computer Vision:** Image segmentation, defect detection in solar/wind, CNNs, hybrid CNN–Transformer models  
+- **Optimization & Learning Paradigms:** Knowledge distillation, multi-task learning, few-shot learning, reinforcement learning   
 
-Power BI, MS Excel
+### Tools & Frameworks
 
-Proteus, Multisim
+- **Python**, **C++**  
+- **PyTorch**, **TensorFlow**, **Keras**, **scikit-learn**, **OpenCV**  
+- **Hugging Face Transformers**, **Diffusers**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
+- Experimentation: **Jupyter**, **Colab**, **Anaconda**  
+- Engineering / Control: **MATLAB**, **LabVIEW**, **PLC**, **Arduino**   
 
-PLCs, Arduino
+---
 
-🎓 Education
-MS Leading to PhD – Electronics Engineering
+## 🧪 Experience Snapshot
 
-Jeju National University, South Korea (2025 – Present)
-BK-21 Fully Funded Scholar
-Coursework: Neural Networks, Artificial Intelligence, Smart Materials, Parallel Preprocessing, Measurement Engineering
+### Machine Learning Engineer — MasterMinds Enterprises (MME), Karachi, Pakistan  
+**Jun 2023 – Present**   
 
-B.E. Electrical Engineering
+- Leading design and testing of ML systems for predictive maintenance, optimization, and analytics.  
+- Building CNN and ML pipelines and integrating them into larger engineering systems.  
+- Bridging between ML research and product/engineering teams.
 
-Sukkur IBA University, Pakistan (2016 – 2020)
-Thesis: AI-Based Plant Health Monitoring System (Machine Learning + Image Processing)
-Scholarships: LU Continental, THP-2016
+### Research Engineer — Augmented Startups, Johannesburg, South Africa  
+**May 2022 – Apr 2023**   
 
-🔍 Research Experience
-Research Scholar – Machine Learning Lab
+- Research in computer vision and autonomous systems (e.g., self-driving cars).  
+- Developed models for detection, localization, and classification.  
+- Created and delivered CV and self-driving curriculum and content.
 
-Jeju National University, South Korea (Jun 2023 – Present)
+### Research Assistant — Sukkur IBA University, Pakistan  
+**Aug 2019 – Apr 2021**   
 
-Multimodal LLM-based forecasting for renewable energy
+- Applied ML to plant and human disease detection (image-based).  
+- Used SVM, Random Forest, PCA, LDA, etc., plus transfer learning (VGG16).  
+- Performed extensive data augmentation & feature engineering.
 
-Agent-based few-shot learning for solar/wind defect detection
+*(Additional teaching and industrial experience: mathematics tutoring, electrical engineer supervisor, PLC/SCADA work — see CV.)*   
 
-Synthetic data generation using Stable Diffusion
+---
 
-Conducting research for high-impact journals (Elsevier, IEEE)
+## 🎓 Education
 
-Machine Learning Engineer – MasterMinds Enterprises (MME)
+- **MS Leading to PhD in Electronics Engineering** — Jeju National University, South Korea  
+  *Mar 2025 – Present*  
+  Focus: Neural networks, AI, energy systems, control applications   
 
-Karachi, Pakistan (Jun 2023 – Present)
+- **B.E. Electrical Engineering** — Sukkur IBA University, Pakistan  
+  *Aug 2016 – Aug 2020*  
+  FYP: **AI-based Plant Health Monitoring System** (disease detection in rice seeds using ML + image processing)   
 
-Designing and testing ML models for predictive maintenance & optimization
+---
 
-Building CNN-based and hybrid AI systems
+## 📂 Example Project Themes
 
-Integrating ML solutions into engineering workflows
+These are the kinds of projects you’ll find in my repos:
 
-Research Engineer – Augmented Startups
+- **LLM-augmented PV forecasting**  
+  - Multimodal symbolic–numeric forecasting with maintenance logs + MiniLM embeddings.  
+  - Quantile LightGBM with calibrated prediction intervals.
 
-Johannesburg, South Africa (May 2022 – Apr 2023)
+- **Generative oversampling for solar fault detection**  
+  - Stable Diffusion + SMOTE / DiToS for extreme class imbalance.  
+  - Solar panel defect classification with CNNs and transformers.
 
-Computer vision & autonomous systems R&D
+- **Biotech & agriculture ML**  
+  - Image-based disease detection in plants.  
+  - Transfer learning workflows (VGG16, etc.).
 
-Object detection, localization, classification for self-driving vehicles
+---
 
-Designed CV curriculum & delivered lectures
+## 🌐 Connect with Me
 
-Research Assistant – Sukkur IBA University
+- 💼 **LinkedIn:** [engrrajkumar](https://www.linkedin.com/in/engrrajkumar)  
+- 🧪 **GitHub:** [rajkumar898](https://github.com/rajkumar898)  
+- 📧 **Email:** [engr.rajkumar898@gmail.com](mailto:engr.rajkumar898@gmail.com)  
+- 🌏 **Location:** Jeju, South Korea  
 
-Pakistan (Aug 2019 – Apr 2021)
-
-Plant & human disease detection using ML
-
-Feature extraction (Texture, SURF, BRISK)
-
-Transfer learning using VGG-16
-
-Data augmentation & performance benchmarking
-
-🧾 Publications (Selected)
-
-LLM-Based Context-Rich Renewable Energy Forecasting – Under Review (Elsevier, IF: 9.1)
-
-Multimodal LLM for Solar Forecasting & Anomaly Detection – Under Review (Elsevier, IF: 11)
-
-DiToS: Multi-Tier Augmentation for Solar Panel Fault Detection – Under Review (IF: 7)
-
-Hybrid Diffusion + SMOTE Model – Published in IEEE Access
-
-Stable Diffusion + SMOTE for Solar Panel Classification – Conditional Acceptance (Elsevier, IF: 5.1)
-
-Generative Oversampling for Solar Fault Detection – International Conference (IF: 2.6)
-
-Fungal Blast Detection in Rice Seeds – Published in IJACSA
-
-👨‍🏫 Teaching Experience
-
-Mathematics Tutor – MyTutorPod (Canada) | Calculus & Algebra
-
-Tutor – Sukkur IBA University | Algebra, Linear Algebra, Seminars & Olympiads
-
-🏭 Industrial Experience
-
-Electrical Engineer Supervisor – AGM Government Contractor
-
-Intern – Continental Biscuits Pvt. Ltd. (PLC Programming, SCADA)
-
-📜 Certifications (Highlights)
-
-Machine Learning Foundations – University of Washington
-
-The Nuts & Bolts of Machine Learning – Google
-
-Foundations of Data Science – Google
-
-IoT & Embedded Systems – University of California
-
-Engineering Project Management – Rice University
-
-🌐 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/engrrajkumar
-
-🧪 Kaggle: https://www.kaggle.com/rajkumar898
-
-💻 GitHub: https://github.com/rajkumar898
-
-📧 Email: engr.rajkumar898@gmail.com
-
-📍 Jeju, South Korea
+🚀 *Open to research collaborations, applied AI roles, and joint projects in Generative AI, LLMs, and energy AI.*
