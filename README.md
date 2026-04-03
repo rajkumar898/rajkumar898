@@ -1,18 +1,68 @@
 # 👋 Hi, I'm Raj Kumar
 
-**Researcher | Machine Learning Engineer | Solar Energy & Renewable Energy Specialist**
+**Research Scholar | Machine Learning Engineer | Generative AI & Renewable Energy Specialist**
 
-I'm a passionate researcher and engineer focused on applying machine learning and advanced data augmentation techniques to solve real-world problems in renewable energy, particularly solar panel fault detection and solar energy forecasting. I publish regularly in top-tier journals and conferences.
+I am a Research Scholar at Jeju National University (South Korea), specializing in **Generative AI**, **Large Language Models (LLMs)**, and their application to **renewable energy systems**. My research focuses on advanced data augmentation techniques (diffusion models, SMOTE), multimodal solar energy forecasting with LLMs, and AI-driven fault detection in solar panels. I have published in top-tier journals including *Applied Energy* (IF: 11), *Renewable Energy* (IF: 9.1), *SETA* (IF: 7), and *IEEE Access* (IF: 3.6), and have received multiple **Best Paper Awards** at international conferences.
+
+---
+
+## 🎓 Education
+
+### MS in Electronics Engineering
+**Jeju National University**, Jeju, South Korea | Mar 2025 – Present
+- **Major Courses:** Machine Learning, Advanced Signal Processing, Renewable Energy Systems, Deep Learning for Engineers, Research Methodology
+- **Scholarship:** BK-21 Fully Funded Scholarship (Brain Korea 21 Program)
+
+### B.E. Electrical Engineering
+**Sukkur IBA University**, Sukkur, Pakistan | Aug 2016 – Aug 2020
+- **Major Courses:** Power Systems, Control Systems, Digital Signal Processing, Electromagnetic Fields, Power Electronics, Renewable Energy, Embedded Systems, Machine Learning
+- **Final Year Project (FYP):** *AI-Based Plant Health Monitoring System* — Developed a computer vision and ML-based system for early detection of plant diseases to support precision agriculture
+- **Scholarship:** Merit-based scholarship awarded during undergraduate studies
+
+---
+
+## 💼 Research Experience
+
+### Research Scholar
+**Jeju National University**, Jeju, South Korea | Mar 2025 – Present
+- Conducting research on Generative AI and LLMs for renewable energy forecasting and solar panel fault detection
+- Developed multi-tier data augmentation frameworks (DiToS) integrating diffusion models, Tomek Links, and SMOTE for robust image-based fault detection
+- Proposed multimodal multi-site solar energy forecasting frameworks leveraging LLM-encoded operational logs
+- Published 3 journal papers and 4 conference papers; 2 additional papers under review in *Applied Energy* and *Energy*
+- Recipient of the BK-21 scholarship and multiple Best Paper Awards at international conferences
+
+### Machine Learning Engineer
+**MasterMinds Enterprises** | Jun 2023 – Feb 2025
+- Designed and deployed end-to-end machine learning pipelines for computer vision and NLP applications
+- Implemented state-of-the-art diffusion models and generative AI solutions for data augmentation in imbalanced datasets
+- Developed LLM-based applications integrating symbolic and numeric data for energy forecasting
+- Collaborated with cross-functional teams to deliver AI products and research prototypes
+- Contributed to publications in *IEEE Access* and *Energy Reports*
+
+### Research Engineer
+**Augmented Startups** | May 2022 – Apr 2023
+- Developed and fine-tuned deep learning models for computer vision tasks including object detection, segmentation, and classification
+- Researched and implemented data augmentation strategies to improve model generalization on limited datasets
+- Explored applications of AI in industrial fault detection and predictive maintenance
+- Produced technical tutorials and documentation on ML model development and deployment
+
+### Research Assistant
+**Sukkur IBA University**, Sukkur, Pakistan | Aug 2019 – Apr 2021
+- Assisted in AI-based plant health monitoring research using computer vision and machine learning
+- Collected and annotated datasets for plant disease detection; trained and evaluated CNN-based classification models
+- Published research on fungal blast disease detection in rice seeds using ML (*IJACSA*, 2021)
+- Supported faculty in laboratory experiments, data analysis, and academic paper writing
 
 ---
 
 ## 🔬 Research Interests
 
-- **Machine Learning & Deep Learning** - Diffusion Models, SMOTE, Image Augmentation, LLMs
+- **Generative AI & LLMs** - Large Language Models, diffusion models, multimodal AI
+- **Machine Learning & Deep Learning** - CNNs, transfer learning, SMOTE, image augmentation
 - **Solar Energy Systems** - Solar panel fault detection, energy forecasting, predictive maintenance
 - **Data Augmentation** - Addressing class imbalance in image-based systems
 - **Renewable Energy AI** - Multimodal learning for energy optimization
-- **Computer Vision** - Fault detection in industrial systems
+- **Computer Vision** - Fault detection in industrial and agricultural systems
 
 ---
 
@@ -99,6 +149,26 @@ I'm a passionate researcher and engineer focused on applying machine learning an
 8. **Introduction to Factory Automation | PLC Basics | Introduction to Ladder Programming** - Omron Corporation
 9. **Renewable Energy & Green Building Entrepreneurship** - Duke University | Coursera | MAY 2020
 10. **Material Science: 10 Things Every Engineer Should Know** - University of California | Coursera | APR 2020
+
+---
+
+## 🛠️ Technical & Soft Skills
+
+### Technical Skills
+- **Generative AI & LLMs:** Diffusion Models (Stable Diffusion), GPT-based LLMs, Prompt Engineering, LangChain, RAG
+- **Machine Learning & Deep Learning:** CNNs, Transfer Learning, SMOTE, Tomek Links, Data Augmentation, Multi-Task Learning
+- **Computer Vision:** Object Detection (YOLO), Image Segmentation, Fault Detection, OpenCV
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, OpenCV, Pandas, NumPy, Matplotlib
+- **Programming Languages:** Python, MATLAB, C/C++, SQL
+- **Tools & Platforms:** Jupyter Notebook, Google Colab, Git/GitHub, LabVIEW, PSIM, Proteus, AutoCAD, MS Office
+- **Energy & Engineering:** Solar PV Systems, Power Electronics, Renewable Energy Simulation, SCADA
+
+### Soft Skills
+- Research Writing & Academic Publishing
+- Technical Presentation & Communication
+- Team Collaboration & Leadership
+- Problem Solving & Critical Thinking
+- Project Management
 
 ---
 
